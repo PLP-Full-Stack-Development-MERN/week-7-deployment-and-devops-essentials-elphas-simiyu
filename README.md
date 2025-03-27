@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+
 
 ## Project info
 
@@ -12,7 +12,6 @@ There are several ways of editing your application.
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/06224e1f-086c-40e0-9cc8-46b3c13b5eff) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -24,10 +23,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+
 
 # Step 3: Install the necessary dependencies.
 npm i
